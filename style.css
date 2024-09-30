@@ -29,3 +29,15 @@
 .box:nth-child(1){
     flex-shrink: 2;
 }
+
+.title1{
+    color: cadetblue;
+}
+
+.title2{
+    color:rgb(23, 158, 158);
+}
+
+.title3{
+    color:aqua;
+}
